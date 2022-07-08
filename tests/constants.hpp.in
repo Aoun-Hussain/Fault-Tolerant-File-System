@@ -1,0 +1,4 @@
+#ifndef __CONSTANTS_H__
+#define __CONSTANTS_H__
+#cmakedefine TEST_FS_DIR "@TEST_FS_DIR@"
+#endif
